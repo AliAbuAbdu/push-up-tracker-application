@@ -1,3 +1,4 @@
 archive/
 node_modules/
 **/.env
+# Flutter project source is tracked; its own .gitignore handles generated files.
